@@ -1,5 +1,8 @@
 _repo: Between-Heathenism-and-Christianity-Being-a-translation-of-Seneca-s-De-Providentia-and-Plutar__60831
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60831-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Super, Charles William
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/342
     wikipedia: http://en.wikipedia.org/wiki/Plutarch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60831#Between-Heathenism-and-Christianity-Being-a-translation-of-Seneca-s-De-Providentia-and-Plutar_
 gutenberg_issued: '2019-12-02'
 gutenberg_type: Text
 identifiers:
