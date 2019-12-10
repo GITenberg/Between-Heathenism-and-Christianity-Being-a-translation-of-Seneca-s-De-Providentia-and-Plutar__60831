@@ -1,0 +1,45 @@
+_repo: Between-Heathenism-and-Christianity-Being-a-translation-of-Seneca-s-De-Providentia-and-Plutar__60831
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Super, Charles William
+    birthdate: 1842
+    deathdate: 1939
+    gutenberg_agent_id: '51157'
+    url: http://www.gutenberg.org/2009/agents/51157
+  - agent_name: Seneca, Lucius Annaeus
+    aliases:
+    - Annaeus Seneca, Lucius
+    - Seneca, L. A. (Lucius Annaeus)
+    - Seneca, Annaeus
+    deathdate: 65
+    gutenberg_agent_id: '1308'
+    url: http://www.gutenberg.org/2009/agents/1308
+    wikipedia: http://en.wikipedia.org/wiki/Seneca_the_Younger
+  - agent_name: Plutarch
+    birthdate: 46
+    deathdate: 119
+    gutenberg_agent_id: '342'
+    url: http://www.gutenberg.org/2009/agents/342
+    wikipedia: http://en.wikipedia.org/wiki/Plutarch
+description: ''
+gutenberg_issued: '2019-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60831'
+  lccn: '99003688'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethics -- History'
+- !lcsh 'Ethics -- Greece'
+- !lcc 'BJ'
+- !lcsh 'Stoics'
+- GITenberg
+title: "Between Heathenism and Christianity\r\nBeing a translation of Seneca's De\
+  \ Providentia, and Plutarch's De sera numinis vindicta, together with notes, additional\
+  \ extracts from these writers and two essays on Graeco-Roman life in the first century\
+  \ after Christ."
+url: http://www.gutenberg.org/ebooks/60831
